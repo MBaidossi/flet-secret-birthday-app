@@ -1,4 +1,4 @@
-# Flet Secret Birthday App 🎉
+# Flet Secret Birthday App
 
 A small interactive Python application built using **Flet**, featuring a password-based login screen, animated confetti, and a hidden birthday surprise.
 
